@@ -1,0 +1,49 @@
+body {
+	background-color: salmon;
+	font-family: arial, sans-serif;
+}
+
+h1,h3{
+	font-family: aclonica, arial, sans-serif;
+}
+h1 {
+	text-align: center;
+	color: white;
+	background-color: skyblue;
+	font-size: 50px;
+}
+
+h2{
+	text-align: center;
+	color: #283747;
+	background-color: #FDEBD0;
+	font-size: 25px;
+	font-family: combo;
+}
+
+h3{
+	text-align: center;
+	color: #138D75;
+	font-size: 40px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+section {
+	background-color: #bbbbbb;
+	width: 60%;
+	margin: 70px auto;
+	padding: 30px;
+	text-align: center;
+}
+
+img {
+	height: 250px;
+	width: 80%;
+	object-fit: cover;
+
+	/*propiedades para centrar*/
+	display: block;
+	margin:0px auto;
+}
+
+/*probando GIT*/
